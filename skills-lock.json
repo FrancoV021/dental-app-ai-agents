@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "516bd2154eb843a8240e43d5b285229129853114ad7075a5e141e1c08e408c84"
+    },
+    "java-springboot": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "computedHash": "f1b9c6b1277178fc33e5a612761c1cd1cf6ab5f946d05d69d52026d142c0a0c1"
+    },
+    "mysql": {
+      "source": "planetscale/database-skills",
+      "sourceType": "github",
+      "computedHash": "a74d7d018c4a9cfe4fd6e37f8758ef03272cde3f3dc2444c4f299636f4b3d275"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "9fb08ab39585f6f770d0c1c735f83e619aba2089d7ad50ba2a305eff715e08b9"
+    }
+  }
+}
